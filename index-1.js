@@ -12,8 +12,8 @@ try {
 }
 
 // ✅ Group Info
-const GROUP_THREAD_ID = "24196335160017473";
-const LOCKED_GROUP_NAME = "🤪 EXIT FUNNY KIDX + TUSHAR BOKA CHUDKE DAFAN 😂";
+const GROUP_THREAD_ID = "2054460922024830";
+const LOCKED_GROUP_NAME = "साहिल मुल्ले🐕🐶 गरीब जोकर🤡 किड्स तेरी  "फातिमा की काली चूत() मैं RaGHuVEER 🔥🔥 के लन्ड का पानी 💦💦 देख जा कर रंडी पुत्र काली चूत की पैदाइश";😂";
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
